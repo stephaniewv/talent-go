@@ -47,6 +47,10 @@ Un paso fundamental para saber como direccionar nuestro flujo y hacerlo entendib
 ![jsiw5125](https://user-images.githubusercontent.com/32309909/36599931-dfa22366-187e-11e8-9d04-4a91e3ecbfc5.JPG)
 ![wple0902](https://user-images.githubusercontent.com/32309909/36599954-f3e1b044-187e-11e8-9916-9b9aee178ed4.JPG)
 
+### Prototipo de baja fidelidad (sketching)
+
+Empezamos a trabajar el flujo con un prototipo en papel, el cual iteramos tres veces para poder recibir la mayor cantidad de feedback en el tiempo disponible. Mediante este prototipo de baja fidelidad definimos las funciones que queríamos implementar y como las queríamos implementar para generar la mejor experiencia en el usuario.
 
 ## Desarrollado para
 [everis](https://www.everis.com/peru/es/home-peru)
+

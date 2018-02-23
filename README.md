@@ -23,6 +23,7 @@ lo que desearía eliminar, incrementar, reducir y crear dentro del flujo de su c
 y pudimos ver a grandes rasgos el problema y empezar a saber cómo abordarlo.
 ![hwtn2871](https://user-images.githubusercontent.com/32309909/36591720-e4c633f0-1860-11e8-9350-15b59e79d970.JPG)
 
-###Artefacto de Service Design
+### Artefacto de Service Design
+
 ## Desarrollado para
 [everis](https://www.everis.com/peru/es/home-peru)

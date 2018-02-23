@@ -35,6 +35,18 @@ Con los momentos claves priorizamos ideas, tomamos a las que abordaban el proble
 ![ouqy9465](https://user-images.githubusercontent.com/32309909/36596894-42e036f2-1875-11e8-95be-fb761a7289d5.JPG)
 ![pbjx0221](https://user-images.githubusercontent.com/32309909/36596911-542cea7c-1875-11e8-8a2f-f7325e32bbcf.JPG)
 
+### Arquetipos
+
+Un paso fundamental para saber como direccionar nuestro flujo y hacerlo entendible para el usuario, fue definir arquetipos, tanto del lado de los postulantes como de los empleadores. Definimos cuatro arquetipos para hacer nuestro solución más dinámica.
+
+![eibu6303](https://user-images.githubusercontent.com/32309909/36599839-9c4f0188-187e-11e8-89fc-e48b689168a3.JPG)
+![dlvc6549](https://user-images.githubusercontent.com/32309909/36599863-b66e1f18-187e-11e8-810b-832744e11cad.JPG)
+![cudm2358](https://user-images.githubusercontent.com/32309909/36599870-bb93ea68-187e-11e8-8b12-ae6b23851995.JPG)
+![hyxo5238](https://user-images.githubusercontent.com/32309909/36599912-d45e1a3c-187e-11e8-8da1-01eea8131333.JPG)
+![hzgv4138](https://user-images.githubusercontent.com/32309909/36599913-d48edf6e-187e-11e8-8ab0-5b8566cc1ab6.JPG)
+![jsiw5125](https://user-images.githubusercontent.com/32309909/36599931-dfa22366-187e-11e8-9d04-4a91e3ecbfc5.JPG)
+![wple0902](https://user-images.githubusercontent.com/32309909/36599954-f3e1b044-187e-11e8-9916-9b9aee178ed4.JPG)
+
 
 ## Desarrollado para
 [everis](https://www.everis.com/peru/es/home-peru)

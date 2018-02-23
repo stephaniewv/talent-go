@@ -51,6 +51,12 @@ Un paso fundamental para saber como direccionar nuestro flujo y hacerlo entendib
 
 Empezamos a trabajar el flujo con un prototipo en papel, el cual iteramos tres veces para poder recibir la mayor cantidad de feedback en el tiempo disponible. Mediante este prototipo de baja fidelidad definimos las funciones que queríamos implementar y como las queríamos implementar para generar la mejor experiencia en el usuario.
 
+### Prototipo de alta fidelidad 
+
+Con el prototipo de alta fidelidad (realizado en Marvel) pudimos implementar la paleta de colores, funcionalidad y arquitectura de la información para fidelizar al máximo el producto al que queremos llegar.
+
+
+
 ## Desarrollado para
 [everis](https://www.everis.com/peru/es/home-peru)
 

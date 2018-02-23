@@ -1,6 +1,6 @@
 # Talent Go
 
-En el siguiente proyecto desarrollamos un plan de agilización del proceso de reclutamiento para Everis Perú. 
+En el siguiente proyecto desarrollamos un plan de agilización del proceso de reclutamiento para la unidad de T&AS(Technology and Advanced Solutions) de Everis Perú. 
 Para lo siguiente desarrollamos una plataforma virtual en la cual el postulante va a tener acceso a un perfil donde va a poder.
 Poner a prueba sus habilidades técnicas, y el reclutador tendrá acceso a ellas, pudiendo corroborarlas. Así podrá evaluarlas de una manera eficaz, ahorrando tiempo y dinero. A la par, el reclutador tendra acceso a un perfil en el cual podrá chequear.
 Contantemente las etapas de sus procesos de requerimiento, acceder a data de candidatos pasados y poder filtrar mejor las necesidades en cuanto al perfil buscado.
